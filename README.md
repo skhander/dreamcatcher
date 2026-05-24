@@ -4,8 +4,6 @@
 
 A native iOS dream journal for the fragile moment between sleep and waking.
 
-## Elevator pitch
-
 You wake up holding a dream — and within minutes it's gone. **Dream Catcher** is built for that half-awake moment: tap the mic, speak a fragment, and see your words transcribed before they fade. Over time, it organizes what you remember into narratives, recurring symbols, and a visual timeline of your inner life. Soft, private, and made for people who want to remember what their mind was trying to say.
 
 ## Core Features
