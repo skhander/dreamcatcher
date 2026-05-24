@@ -8,7 +8,7 @@ You wake up holding a dream — and within minutes it's gone. **Dream Catcher** 
 
 ## Core Features
 
-### Wake-Up Capture (Bedside Mode)
+### Wake-Up Capture 
 - One-tap voice recording with live transcription
 - Designed for groggy mornings — speak before you forget
 
